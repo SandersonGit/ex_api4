@@ -1,0 +1,51 @@
+body {
+    background-color: #fcffd9;
+    font-family: "Times New Roman", Times, serif;
+    color: #656273;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #d8f171;
+    padding: 20px;
+}
+
+.logo h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+main {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.container {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.principal {
+    background-color: #d8f171;
+}
+
+.principal article {
+    padding: 20px;
+}
+
+.noticia {
+    background-color: #59baa9;
+}
+
+.noticia article {
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+footer {
+    background-color: #59baa9;
+    text-align: center;
+    padding: 20px;
+}
